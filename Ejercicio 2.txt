@@ -1,23 +1,23 @@
 <!DOCTYPE HTML>
 <html lang="es">
 <head>
-	<title>programa003</title>
+	<title>programa002</title>
 	<meta charset="utf-8" />
 </head>
 <body>
 	<h2>Atritubos HTML</h2>
-	<p>Se solicita organizar la p醙ina Web de modo que se visualice la siguiente informaci髇:</p>
+	<p>Se solicita organizar la p谩gina Web de modo que se visualice la siguiente informaci贸n:</p>
 
 	<img src="balon-futbol.jpg" width="225" height="224"> <img src="tenis.jpg" width="224" height="224"><img src="raquetas.jpg" width="290" height="174">
 
-	<p>Si la imagen tiene extensi髇 'gif', su apariencia es la de un objeto animado. La sintaxis de la instrucci髇 es similar a la de la visualizaci髇 de una imagen</p>
+	<p>Si la imagen tiene extensi贸n 'gif', su apariencia es la de un objeto animado. La sintaxis de la instrucci贸n es similar a la de la visualizaci贸n de una imagen</p>
 
 	<img src="baloncesto.gif" alt="Baloncesto" style="width:64px;height:64px;">
 
         <p style="color:green; font-size:32px;">Texto con estilo: color</p>
 	<p style="color:red;">Fruta: manzana</p>
 
-	<p>Tama駉 y caracter韘ticas de texto</p>
-	<p style="color:red; font-size:24px;">Texto con atributos de color y de tama駉</p>
+	<p>Tama帽o y caracter铆sticas de texto</p>
+	<p style="color:red; font-size:24px;">Texto con atributos de color y de tama帽o</p>
 </body>
 </html>
